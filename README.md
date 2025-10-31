@@ -1,7 +1,7 @@
 <div align="center">
   <h2>
     Olá! Eu sou Nayara!! 
-    <img src="" alt="Psyduck" width="40"/>
+    <img src="" alt="" width="40"/>
   </h2>
 </div>
 
