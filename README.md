@@ -1,3 +1,13 @@
+### 👩‍💻 Olá! Eu sou a Nayara Emelly  
+
+💡 **Minhas Skills:**  
+- Linguagens: Python, JavaScript, HTML, CSS  
+- Ferramentas: Git, VS Code, Figma  
+- Estudando atualmente: React e Node.js  
+
+📈 *Buscando evoluir a cada projeto!*
+
+
 <h3 align="center">💡 My Skills</h3>
 
 <p align="center">
