@@ -23,7 +23,7 @@
 
 </p>
 
-<h1>📝 Escrita & Documentação</h1>
+<h6 aling="center">📝 Escrita & Documentação</h6>
 
 
 ---
