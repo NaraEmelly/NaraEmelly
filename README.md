@@ -17,6 +17,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" title="HTML5"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" title="CSS3"/></a>
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" title="Python"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50" height="50"/>
 </p>
 
 ---
