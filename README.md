@@ -35,7 +35,7 @@
   <a href="#"><img src="https://skillicons.dev/icons?i=figma" title="Figma"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=git" title="Git"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=github" title="GitHub"/></a>
-  <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="Markdown logo" width="50" height="50"/> </a>
+  <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" title="Markdown logo"/></a>
 </p>
 
 ---
