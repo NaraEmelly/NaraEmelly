@@ -1,7 +1,7 @@
 <div align="center">
   <h2>
     Olá! Eu sou Nayara!! 
-    <img src="https://camo.githubusercontent.com/0825c1ba3a7472c16200be5951bc02d103be03e25c0a9401f5bda5f66bebeb91/68747470733a2f2f656d6f6a692e67672f6173736574732f656d6f6a692f323834322d73747265737365647073796475636b2e706e67" alt="Psyduck" width="40"/>
+    <img src="" alt="Psyduck" width="40"/>
   </h2>
 </div>
 
