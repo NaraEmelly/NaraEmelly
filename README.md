@@ -1,6 +1,7 @@
 <div align="center">
   <h2>
-    Olá! Eu sou Nayara!! 
+    HI!! I"M NAYARA!! HOW ARE YOU?
+    
     <img src="" alt="" width="40"/>
   </h2>
 </div>
