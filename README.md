@@ -18,6 +18,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" title="CSS3"/></a>
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" title="Python"/></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React logo" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL logo" width="50" height="50"/>
+
 </p>
 
 ---
