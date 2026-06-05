@@ -77,7 +77,7 @@
 
 <div align="center">
   <p align="center">
-  <img width="880" height="192" alt="image" src="https://github.com/user-attachments/assets/6e455f3b-19b3-4895-b364-c6ab48ecd9ef.svg" />
+  <img width="880" height="192" alt="image" src="" />
 
 
 </p>
