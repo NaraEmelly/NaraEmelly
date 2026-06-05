@@ -75,7 +75,7 @@
   <br>
 </div>
 
-![Minha Cobrinha](https://githubusercontent.com)
+![Minha Cobrinha](https://github.com/NaraEmelly/NaraEmelly/raw/output/github-snake-dark.svg)
 
 
 <div align="center">
