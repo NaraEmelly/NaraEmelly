@@ -76,7 +76,7 @@
 </div>
 
 <p align="center">
-  <img src="github-contribution-grid-snake.svg" alt="Minha Cobrinha" />
+  <img src="https://github.com/NaraEmelly/NaraEmelly/compare/main...output?expand=1#diff-0f6a59e8fae40d20a61a5eaa5d46184b859f23223361ae2209fd0354794dfeeb" alt="Minha Cobrinha" />
 </p>
 
 
