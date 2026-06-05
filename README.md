@@ -76,7 +76,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/NaraEmelly/NaraEmelly/raw/output/" alt="Minha Cobrinha" />
+  <img src="https://github.com/NaraEmelly/NaraEmelly/blob/output/" alt="Minha Cobrinha" />
 </p>
 
 <div align="center">
