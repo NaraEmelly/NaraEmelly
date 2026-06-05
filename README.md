@@ -31,7 +31,7 @@
   <h3>Top Projects (built to avoid manual labor)</h3>
   <a href="https://github.com/NaraEmelly/JARVIS"><img src="https://img.shields.io/badge/JARVIS-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp;Uma IA para automação com inspiração ao JARVIS do Homem de Ferro em Python e APIs, atualmente ando modificando ele.<br>
   
-  <a href="https://github.com/NaraEmelly/Carta-Naya-Selva-Proibida"><img src="https://img.shields.io/badge/Carta Jurassic-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp;Site divertigo temático Jurassic Park, uma Vibe RPG.<br>
+  <a href="https://github.com/NaraEmelly/Carta-Naya-Selva-Proibida"><img src="https://img.shields.io/badge/Carta Jurassic-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp;Site divertido no tema Jurassic Park, uma Vibe RPG.<br>
 
 
   
