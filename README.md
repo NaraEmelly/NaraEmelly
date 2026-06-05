@@ -75,13 +75,9 @@
   <br>
 </div>
 
-<div align="center">
-  <p align="center">
-  <img width="880" height="192" alt="image" src="" />
-
-
+<p align="center">
+  <img src="https://githubusercontent.com" alt="Meus Commits" width="600" />
 </p>
-</div>
 
 <br><br>
 
