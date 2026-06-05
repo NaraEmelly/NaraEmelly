@@ -71,7 +71,7 @@
 
 <br>
 
-<img width="880" height="192" alt="github-contribution-grid-snake" src="https://github.com/user-attachments/assets/fe4a3fca-c8ae-4245-8b72-eef796b463ec" /><img width="880" height="192" alt="meu-terminal gif" src="https://github.com/user-attachments/assets/5cb5c53b-af66-4db9-8711-c8df17570ef3" />
+<img width="880" height="192" alt="github-contribution-grid-snake" src="https://github.com/user-attachments/assets/fe4a3fca-c8ae-4245-8b72-eef796b463ec" />
 
 
 
