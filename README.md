@@ -12,14 +12,16 @@
 <br>
 
 <div align="center">
-  <h2>Know About Me</h2>
+  <h2>Sobre mim</h2>
 </div>
 
 <img src="https://i.postimg.cc/wj3jSKVc/52c113261b11744f4723bd107c4c40d7-removebg-preview.png" width="210" align="left" style="margin-right: 15px;">
 
 <div align="justify">
-  <h3>Hey there! I’m Karthick</h3>
-  I'm an AI & Data Science undergrad fueled by sambar and an unhealthy obsession with minimalist dark themes. By day, I pretend to understand the universe. By night, I write Python scripts to automate myself out of doing actual work. When I'm not coding, I'm usually crashing helicopters in GTA V or treating my Clash of Clans village like a highly stressful Fortune 500 company.
+  <h3>Oi! Eu sou a Nayara</h3>
+  Sou uma estudante de IA e Ciência de Dados movida a arroz, feijão e uma obsessão nada saudável por temas escuros minimalistas. De dia, finjo entender o universo. À noite,
+  escrevo scripts em Python para automatizar tudo o que eu puder e escapar do trabalho de verdade.
+  Quando não estou programando, geralmente estou escutando música ou jogando Sky.
   <br><br>
   
   <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
