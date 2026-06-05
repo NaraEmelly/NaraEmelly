@@ -76,8 +76,9 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/NaraEmelly/NaraEmelly/blob/output/" alt="Minha Cobrinha" />
+  <img src="https://githubusercontent.com" alt="Jogo da Cobrinha Github Commits" />
 </p>
+
 
 <div align="center">
   <img src="https://i.postimg.cc/8PmQWYw9/Whats-App-Image-2026-03-05-at-11-05-19-PM-(1).jpg" width="100%">
