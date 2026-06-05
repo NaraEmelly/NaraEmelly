@@ -77,7 +77,8 @@
 
 <div align="center">
   <p align="center">
-  <img src="https://github.com/NaraEmelly/NaraEmelly/blob/output/github-snake-dark.svg" width="100%">
+  <img width="880" height="192" alt="image" src="https://github.com/user-attachments/assets/456dbaf6-ae81-4015-a333-94f575b54a01" />
+
 </p>
 </div>
 
