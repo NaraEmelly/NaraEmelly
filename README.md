@@ -1,5 +1,6 @@
 <a href="https://github.com/NaraEmelly">
-  <img width="736" height="414" alt=":3" src="https://github.com/user-attachments/assets/eebff111-c7da-4697-b5ee-93bd2ed769ed" />
+  <img width="1000" height="562" alt="hehe" src="https://github.com/user-attachments/assets/dc767edd-01d7-4c3f-8723-f24e5c00756e" />
+
 
 </a>
 
