@@ -57,7 +57,7 @@
   &nbsp;
   <a href="mailto:nayaraemelly698@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/1W8HDDCPTHcm6hw8zbzDeKoxIxoKsz_VN/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSA5aC00VjNIOXY2SDVsNyA3IDctN3pNNSAxOHYyaDE0di0ySDV6Ii8+PC9zdmc+&logoColor=white"></a>
+  <a href="https://drive.google.com/e"></a>
 </div>
 
 <br>
@@ -77,7 +77,8 @@
 
 <div align="center">
   <p align="center">
-  <img width="880" height="192" alt="image" src="https://github.com/user-attachments/assets/456dbaf6-ae81-4015-a333-94f575b54a01" />
+  <img width="880" height="192" alt="image" src="https://github.com/user-attachments/assets/6e455f3b-19b3-4895-b364-c6ab48ecd9ef.svg" />
+
 
 </p>
 </div>
