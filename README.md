@@ -1,5 +1,6 @@
 <a href="https://github.com/NaraEmelly">
-  <img src="https://i.postimg.cc/vHsQ0wRw/Gemini-Generated-Image-yc8ulhyc8ulhyc8u-(1).png" width="100%" alt="Synaptara Banner"/>
+  <img width="736" height="414" alt=":3" src="https://github.com/user-attachments/assets/eebff111-c7da-4697-b5ee-93bd2ed769ed" />
+
 </a>
 
 <div align="center">
