@@ -56,9 +56,9 @@
 
 <br>
 
-Código nunca está terminado. Ele apenas se torna um pouco menos terrível com o tempo.
+> Código nunca está terminado. Ele apenas se torna um pouco menos terrível com o tempo.
 
-Cada commit que faço é basicamente só um pequeno pedido de desculpas desesperado para o meu “eu” do futuro. Um dia eu vou voltar para essa base de código, olhar o spaghetti que escrevi e me perguntar quem deixou eu chegar perto de um teclado.
+> Cada commit que faço é basicamente só um pequeno pedido de desculpas desesperado para o meu “eu” do futuro. Um dia eu vou voltar para essa base de código, olhar o spaghetti que escrevi e me perguntar quem deixou eu chegar perto de um teclado.
 
 <br clear="right"/>
 <br>
