@@ -92,7 +92,6 @@
         <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
         <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
-        <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white">
       </td>
     </tr>
     <tr>
