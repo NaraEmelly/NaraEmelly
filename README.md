@@ -75,9 +75,7 @@
   <br>
 </div>
 
-<p align="center">
-  <img src="https://githubusercontent.com" alt="Jogo da Cobrinha Github Commits" />
-</p>
+![Minha Cobrinha](https://githubusercontent.com)
 
 
 <div align="center">
