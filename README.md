@@ -56,9 +56,9 @@
 
 <br>
 
-> Code is never finished. It only becomes slightly less terrible over time.
+Código nunca está terminado. Ele apenas se torna um pouco menos terrível com o tempo.
 
-> Every commit I make is essentially just a small, desperate apology to my future self. Someday I will return to this codebase, look at the spaghetti I've written, and wonder who let me anywhere near a keyboard.
+Cada commit que faço é basicamente só um pequeno pedido de desculpas desesperado para o meu “eu” do futuro. Um dia eu vou voltar para essa base de código, olhar o spaghetti que escrevi e me perguntar quem deixou eu chegar perto de um teclado.
 
 <br clear="right"/>
 <br>
