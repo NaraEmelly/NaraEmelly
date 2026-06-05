@@ -76,7 +76,7 @@
 </div>
 
 <p align="center">
-  <img src="https://githubusercontent.com" alt="Jogo da Cobrinha Github Commits" />
+  <img src="github-contribution-grid-snake.svg" alt="Minha Cobrinha" />
 </p>
 
 
