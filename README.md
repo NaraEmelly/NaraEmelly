@@ -19,9 +19,7 @@
 
 <div align="justify">
   <h3>Oi! Eu sou a Nayara</h3>
-  Sou uma estudante de Engenharia de Software movida a Spotify e uma obsessão nada saudável por temas escuros minimalistas. De dia, finjo entender o universo. À noite,
-  escrevo scripts em Python para automatizar tudo o que eu puder e escapar do trabalho de verdade mas sou obrigada a estudar para a faculdade.
-  Quando não estou programando, geralmente estou escutando música ou jogando Sky.
+  Sou uma estudante de Engenharia de Software movida a Spotify e teorias da conspiração. Atualmente meu foco está em **estudos contínuos** e no desenvolvimento de **pequenos projetos autorais** que aplicam na prática os conceitos que aprendo na faculdade ou pesquisando, a maior parte pesquisando no google "como resolver tal coisa no código tal" rs.
   <br><br>
   
   <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
